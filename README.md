@@ -1,4 +1,5 @@
 # Power BI Project: E-commerce Dashboard
+![image](https://github.com/user-attachments/assets/bfcc4873-f67d-421a-a5b6-d9ad327ba948)
 **Overview**
 This Power BI project focuses on creating an engaging and informative dashboard to analyze e-commerce data. By merging two separate datasets, the project aims to provide a unified view of key performance indicators and trends in the e-commerce domain. The interactive dashboard created in Power BI enables users to gain valuable insights and make data-driven decisions.
 1. **Data Integration:**
@@ -8,7 +9,6 @@ This Power BI project focuses on creating an engaging and informative dashboard 
 * Designed a dynamic and user-friendly dashboard in Power BI.
 * Incorporated various visual elements like charts, graphs, and tables to represent data effectively.
 * Enabled interactive filters and slicers for a customized data exploration experience.
-![image](https://github.com/user-attachments/assets/bfcc4873-f67d-421a-a5b6-d9ad327ba948)
 3. **Actionable Insights:**
 * Provided key insights and trends from the integrated data.
 * Highlighted important performance metrics to support strategic decision-making.
